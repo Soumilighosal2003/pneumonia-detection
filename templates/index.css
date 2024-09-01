@@ -1,0 +1,60 @@
+/* index.css */
+
+/* Navbar */
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffffff;
+}
+
+/* Main Content */
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  color: #343a40;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+form {
+  margin-top: 20px;
+}
+
+/* result.css */
+
+/* Main Content */
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  color: #dc3545;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.25rem;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
